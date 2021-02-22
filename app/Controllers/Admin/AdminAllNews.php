@@ -1,9 +1,5 @@
 <?php
-
-
 namespace App\Controllers\Admin;
-
-
 use App\Models\News as NewsModel;
 use App\Services\ViewLoader;
 
